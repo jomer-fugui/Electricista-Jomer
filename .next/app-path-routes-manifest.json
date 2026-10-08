@@ -1,0 +1,19 @@
+{
+  "/(site)/[...slug]/page": "/[...slug]",
+  "/(site)/page": "/",
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/(panel)/ajustes/page": "/admin/ajustes",
+  "/admin/(panel)/medios/page": "/admin/medios",
+  "/admin/(panel)/page": "/admin",
+  "/admin/(panel)/s/[key]/[id]/page": "/admin/s/[key]/[id]",
+  "/admin/(panel)/s/[key]/page": "/admin/s/[key]",
+  "/admin/login/page": "/admin/login",
+  "/api/health/route": "/api/health",
+  "/api/media/[...path]/route": "/api/media/[...path]",
+  "/api/og/route": "/api/og",
+  "/api/upload/route": "/api/upload",
+  "/icon.svg/route": "/icon.svg",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
