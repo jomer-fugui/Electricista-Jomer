@@ -1,0 +1,19 @@
+{
+  "/(site)/[...slug]/page": "app/(site)/[...slug]/page.js",
+  "/(site)/page": "app/(site)/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/(panel)/ajustes/page": "app/admin/(panel)/ajustes/page.js",
+  "/admin/(panel)/medios/page": "app/admin/(panel)/medios/page.js",
+  "/admin/(panel)/page": "app/admin/(panel)/page.js",
+  "/admin/(panel)/s/[key]/[id]/page": "app/admin/(panel)/s/[key]/[id]/page.js",
+  "/admin/(panel)/s/[key]/page": "app/admin/(panel)/s/[key]/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/api/media/[...path]/route": "app/api/media/[...path]/route.js",
+  "/api/og/route": "app/api/og/route.js",
+  "/api/upload/route": "app/api/upload/route.js",
+  "/icon.svg/route": "app/icon.svg/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+}
