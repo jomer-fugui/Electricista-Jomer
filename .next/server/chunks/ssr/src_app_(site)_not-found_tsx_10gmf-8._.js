@@ -1,0 +1,3 @@
+module.exports=[85395,a=>{"use strict";var b=a.i(7997),c=a.i(95936);a.s(["default",0,function(){return(0,b.jsx)("div",{className:"container-x grid min-h-[60vh] place-items-center py-20 text-center",children:(0,b.jsxs)("div",{children:[(0,b.jsx)("p",{className:"font-brand text-8xl text-accent text-glow",children:"404"}),(0,b.jsx)("h1",{className:"mt-4 font-display text-3xl font-bold text-white uppercase",children:"Página no encontrada"}),(0,b.jsx)("p",{className:"mt-2 text-zinc-400",children:"Parece que este cable no lleva a ningún lado."}),(0,b.jsx)(c.default,{href:"/",className:"btn-primary mt-8",children:"Volver al inicio"})]})})}])},89327,a=>{a.n(a.i(85395))}];
+
+//# sourceMappingURL=src_app_%28site%29_not-found_tsx_10gmf-8._.js.map
